@@ -24,7 +24,7 @@ This project focuses on classifying cyberbullying text using a hybrid deep learn
 ![Model Result ELECTRA-CNN](Output Model ELECTRA-CNN.png)
 
 ## Open Notebook
-[Open in Google Colab for XLNet](https://drive.google.com/file/d/10AxqySQrB5N_nvMRL6tQz-9MfyT5F4Dw/view?usp=sharing)
-[Open in Google Colab for XLNet-CNN](https://drive.google.com/file/d/1HerTF08_ZXpIU0J9K4uYXXtIdkT3bhe0/view?usp=sharing)
-[Open in Google Colab for ELECTRA](https://drive.google.com/file/d/1ftQA4IKMNnE6jWyWWotoR6fV_IOSZP-f/view?usp=sharing)
-[Open in Google Colab for ELECTRA-CNN](https://drive.google.com/file/d/1tdiLS2j9ObsZjphOkrUWH2DIH5Z1aY2T/view?usp=sharing)
+- [Open in Google Colab for XLNet](https://drive.google.com/file/d/10AxqySQrB5N_nvMRL6tQz-9MfyT5F4Dw/view?usp=sharing)
+- [Open in Google Colab for XLNet-CNN](https://drive.google.com/file/d/1HerTF08_ZXpIU0J9K4uYXXtIdkT3bhe0/view?usp=sharing)
+- [Open in Google Colab for ELECTRA](https://drive.google.com/file/d/1ftQA4IKMNnE6jWyWWotoR6fV_IOSZP-f/view?usp=sharing)
+- [Open in Google Colab for ELECTRA-CNN](https://drive.google.com/file/d/1tdiLS2j9ObsZjphOkrUWH2DIH5Z1aY2T/view?usp=sharing)
