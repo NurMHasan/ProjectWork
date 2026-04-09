@@ -18,7 +18,13 @@ This project focuses on classifying cyberbullying text using a hybrid deep learn
 - Evaluate model performance using metrics such as accuracy, precision, recall, and F1-score
 
 ## Output Preview
-![Model Result](result.png)
+![Model Result XLNet](Output Model XLNet.png)
+![Model Result XLNet-CNN](Output Model XLNet-CNN.png)
+![Model Result ELECTRA](Output Model ELECTRA.png)
+![Model Result ELECTRA-CNN](Output Model ELECTRA-CNN.png)
 
 ## Open Notebook
-[Open in Google Colab](PASTE_LINK_COLAB_KAMU_DI_SINI)
+[Open in Google Colab for XLNet](https://drive.google.com/file/d/10AxqySQrB5N_nvMRL6tQz-9MfyT5F4Dw/view?usp=sharing)
+[Open in Google Colab for XLNet-CNN](https://drive.google.com/file/d/1HerTF08_ZXpIU0J9K4uYXXtIdkT3bhe0/view?usp=sharing)
+[Open in Google Colab for ELECTRA](https://drive.google.com/file/d/1ftQA4IKMNnE6jWyWWotoR6fV_IOSZP-f/view?usp=sharing)
+[Open in Google Colab for ELECTRA-CNN](https://drive.google.com/file/d/1tdiLS2j9ObsZjphOkrUWH2DIH5Z1aY2T/view?usp=sharing)
